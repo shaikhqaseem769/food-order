@@ -1,5 +1,5 @@
 import './FoodDisplay.css';
-import {StoreContext} from '../../context/storeContent.jsx';
+import {StoreContext} from '../../context/StoreContent.jsx';
 import { useContext } from 'react';
 import FoodItem from '../foodItem/FoodItem.jsx';
 
