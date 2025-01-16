@@ -7,7 +7,7 @@ const AppDownload = () => {
             <p>For Batter Experience Download <br /> Tomato App</p>
             <div className="app-download-plateforms">
                 <img src={assets.play_store} alt="" />
-                <img src={assets.play_store} alt="" />
+                <img src={assets.app_store} alt="" />
             </div>
         </div>
     )
